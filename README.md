@@ -67,6 +67,6 @@ Sağ tarafta Add file tıklıyoruz ve create new file diyoruz.
 ** ![gentx2](https://user-images.githubusercontent.com/101218992/206650493-851efdbf-9d2e-451f-b27c-2648c0c9674b.png)
   Name your file kısmında şu şekilde dosyamızın adını yazıyoruz.      gentx-VALIDATORADI.json 
   Edit new file kısmına da indirdiğimiz gentx dosyamızın içeriğini ekliyoruz  ve sayfanın alt kısmından commit new file diyerek kaydediyoruz. 
- * Pull Request yazan yere tıklıyoruz, New pull request e tıklıyoruz ve create pull request diyerek açılan sayfada gentx dosyamızın içeriğini ekliyoruz. Onaylıyoruz ve işlemimiz bitiyor. 
+ * Sol üst tarafta Pull Request yazan yere tıklıyoruz, New pull request e tıklıyoruz ve create pull request diyerek açılan sayfada gentx dosyamızın içeriğini ekliyoruz. Onaylıyoruz ve işlemimiz bitiyor. 
   
   https://github.com/mars-protocol/networks/pulls   Buradan kontrol edebilirsiniz. 
