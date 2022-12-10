@@ -1,5 +1,7 @@
 # Mars-Protocol-Gentx
 
+## https://discord.gg/marsprotocol
+
 ## Sunucu güncellemesi 
 ```
 sudo apt update && sudo apt upgrade -y
